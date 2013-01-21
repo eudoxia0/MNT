@@ -4,6 +4,10 @@
 - gears:
     - nanotube-worm-drive: A worm drive made of benzyne groups attached in a spiral pattern to the outer surface of an uncapped nanotube.
 - motors:
+- sorting:
 - structural:
     - diamondoid:
     - fullerene:
+- transport:
+    - fullerene-conveyor-cart: A modified nanotube that can be bonded to others like it in a sequence. Has a knob that can be pressed along by the wheel of a NEMS conveyor, and two knobs carrying sample Mechanosynthethic tooltips.
+    - grantry: a carbon nanotube that can be moved linearly by a fullerene rotor. Gear's teeth are implemented as protruding fullerene knobs.
